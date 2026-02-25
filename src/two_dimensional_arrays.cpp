@@ -171,7 +171,7 @@ void twoDimensionalArrays() {
 
     // your nested loops here
 
-    // TODO: Free the flat array with delete[] and set to nullptr
+    
 
 
 
