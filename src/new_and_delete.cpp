@@ -185,7 +185,6 @@ void newAndDelete() {
     // TODO: Create a shared_ptr<int> called 'sharedA' using std::make_shared<int>(77)
 
     auto sharedA = std::make_shared<int>(77);
-
     // TODO: Create a second shared_ptr<int> called 'sharedB' that copies sharedA
     //       Hint: auto sharedB = sharedA;
     //
